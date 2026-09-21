@@ -1,10 +1,10 @@
-package org.example.minspringboot;
+package org.example.minspringbootgradle;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MinSpringBootApplicationTests {
+class MinSpringBootGradleApplicationTests {
 
     @Test
     void contextLoads() {
